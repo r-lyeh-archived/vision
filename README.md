@@ -6,6 +6,9 @@ a few assorted premises and thoughts
 - touch the heart
 - master the brain
 
+# game dogma
+- sorted by importance: content > mechanics > code
+
 # dev dogmas
 - democracy { art, code, design }
 - brainstorming: everybody in shared triangle edges 
