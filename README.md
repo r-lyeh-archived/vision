@@ -24,7 +24,11 @@ a few assorted premises and thoughts
 - leads: both project and human resources
 - producers: nope
 - managers: nope
-- HQ: nope
+- HQ / staff / vip: nope
+
+# inverse project flow
+classic: staff requests features, workers do. loop forever. infinite development cycle. nonsense everywhere.
+inverse: workers request features, staff approves or maybe not, devs do only if approved.
 
 # plus (when hiring)
 - master of two: artsy coder, technical artist, game+level designer
