@@ -39,6 +39,8 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 1. do video-to-app while( !approved )
 1. ui stage
 
+# gamebook
+
 # physical layout
 - flat
 - synergy
