@@ -39,7 +39,24 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 1. do video-to-app while( !approved )
 1. ui stage
 
+# mobile flow 4/4 rule: 4 steps/4 rewards
+1. vibrant colors, nice graphics, lovely stupid chars (worms, minions, kerbals, rabids)
+1. short game sessions [30s..2m]
+1. long story/campaign [days...months]
+1. tapping, one finger to rule them all
+- rewarding: 0 stars (failed), 1 star (ok), 2 stars (great!), 3 stars (awesome!!)
+
+# customer review flow
+1. image: vivid colors, nice artwork
+1. video: movement, feel, sound, additional details (history, easters, ..)
+1. reviews: positive and negative details
+1. store: price, availability, requeriments
+1. (additionally pre: ads<->marketing<->networking: how did you know about the game?)
+
 # gamebook
+
+# presskit > landing page
+- half page what/where/when/how much/who/why + media (img/vid)
 
 # physical layout
 - flat
