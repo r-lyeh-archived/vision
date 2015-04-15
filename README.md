@@ -1,4 +1,4 @@
-# premises
+# envision
 a few assorted premises and thoughts
 
 # player dogmas
