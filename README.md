@@ -34,10 +34,10 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 - master of two: artsy coder, technical artist, game+level designer
 
 # milestones & planning
-1. do in-game-assets while( !approved )
-1. do video-in-max while( !approved )
-1. do video-to-app while( !approved )
-1. ui stage
+1. do in-game-assets while( !art director && !hq approved ) ; preproduction
+1. do gameplay-video-in-max while( !designers && !tech director && !hq approved ) ; preproduction
+1. do convert-video-to-app while( !coders && !qa approved ) ; this is split in milestones
+1. hint: UI is left as the last milestone
 
 # mobile flow 4/4 rule: 4 steps/4 rewards
 1. vibrant colors, nice graphics, lovely stupid chars (worms, minions, kerbals, rabids)
