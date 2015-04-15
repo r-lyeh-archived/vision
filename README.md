@@ -33,6 +33,12 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 # plus (when hiring)
 - master of two: artsy coder, technical artist, game+level designer
 
+# milestones & planning
+1. do in-game-assets while( !approved )
+1. do video-in-max while( !approved )
+1. do video-to-app while( !approved )
+1. ui stage
+
 # physical layout
 - flat
 - synergy
