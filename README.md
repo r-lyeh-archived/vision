@@ -66,3 +66,12 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 - mixed weekly reviews
 - mixed game jams
 
+# dual milestones
+- `tech     |===|===|===|===|`
+- `gameplay |===|===|===|===|===|==|`
+
+# quad milestones
+- `tech-cli     |===|===|===|===|`
+- `tech-srv     |===|===|===|===|`
+- `gameplay-cli |===|===|===|===|===|==|`
+- `gameplay-srv |===|===|===|===|===|==|`
