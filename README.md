@@ -75,3 +75,9 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 - `tech-srv     |===|===|===|===|`
 - `gameplay-cli |===|===|===|===|===|==|`
 - `gameplay-srv |===|===|===|===|===|==|`
+
+# tech
+- deploy games purely as content player 
+- whole games as data driven
+- add features to the engine, rather than to the game
+
