@@ -79,5 +79,5 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 # tech
 - deploy games purely as content player 
 - whole games as data driven
-- add features to the engine, rather than to the game
+- add features to the player, rather than to the game
 
