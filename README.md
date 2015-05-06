@@ -86,4 +86,8 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 - every new feature gets evaluated in time: time x human resources = money
 - if est money > remaining money then feature is not done (and HQ guy gets fired :o)
 - else money is substracted from total amount and time is added to project estimation
- 
+
+# studio dev tools
+- clone a virtual box disk with the studio tools & apps stuffed in it
+- when deploying a new computer, grab the disk from the network
+
