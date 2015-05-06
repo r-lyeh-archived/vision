@@ -81,3 +81,9 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 - whole games as data driven
 - add features to the player, rather than to the game
 
+# monopoly dev
+- hq is assigned a quantity of fake money for the whole project 
+- every new feature gets evaluated in time: time x human resources = money
+- if est money > remaining money then feature is not done (and HQ guy gets fired :o)
+- else money is substracted from total amount and time is added to project estimation
+ 
