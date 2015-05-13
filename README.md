@@ -92,3 +92,12 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 - copy os.vdi dev.vdi; and append studio tools & apps to it
 - when deploying a new computer, grab the dev.vdi disk from the network
 - when updating tools, restart from os.vdi
+
+# tools
+- easy boot cd
+- mozilla firefox (not ie, not chrome; because of "same origin policy" issue )
+- toolchains and compilers
+- python, ruby and nodejs
+- sublime text 2
+- tortoise git
+- tortoise svn
