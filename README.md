@@ -1,4 +1,4 @@
-# envision
+# vision
 a few assorted premises and thoughts
 
 # player dogmas
@@ -88,6 +88,7 @@ inverse: workers request features, staff approves or maybe not, devs do only if 
 - else money is substracted from total amount and time is added to project estimation
 
 # studio dev tools
-- clone a virtual box disk with the studio tools & apps stuffed in it
-- when deploying a new computer, grab the disk from the network
-
+- clone a virtual box disk with the OS in it. keep it as os.vdi
+- copy os.vdi dev.vdi; and append studio tools & apps to it
+- when deploying a new computer, grab the dev.vdi disk from the network
+- when updating tools, restart from os.vdi
