@@ -30,6 +30,11 @@ a few assorted premises and thoughts
 classic: staff requests features, workers do. loop forever. infinite development cycle. nonsense everywhere.
 inverse: workers request features, staff approves or maybe not, devs do only if approved.
 
+# project constrains
+triangle of [detail/space,quality/performance,time/money].
+pick a vertex for a given project.
+everybody in the project have this is mind when creating { artwork, code, mechanics/levels, content }
+
 # plus (when hiring)
 - master of two: artsy coder, technical artist, game+level designer
 
