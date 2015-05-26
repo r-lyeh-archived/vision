@@ -104,7 +104,7 @@ see https://github.com/r-lyeh/gamebook
 - `tech * ...........|===|===|===|===|===|`
 - `gameplay * .......|===|===|===|===|===|`
 - `ui....................................|===|`
-- `*`: milestones that always match dates
+- `*`: lanes that match milestones
  
 ## Production: online games == quad milestones
 - `art .....|=|=|==|==|=|`
@@ -114,7 +114,7 @@ see https://github.com/r-lyeh/gamebook
 - `gameplay-cli * ......|===|===|===|===|===|`
 - `gameplay-srv * ......|===|===|===|===|===|`
 - `ui.......................................|===|`
-- `*`: milestones that always match dates
+-- `*`: lanes that match milestones
 
 ## Production: monopoly dev
 - HQ is assigned a quantity of fake money (budget) for the whole project 
