@@ -49,7 +49,7 @@
 - classic: staff requests features, workers do. loop forever. infinite development cycle. nonsense everywhere.
 - inverse: workers request features, staff approves or maybe not, devs do only if approved.
 
-### Studio: dual organization roles
+## Studio: dual organization roles
 - designers: both mechanics and levels
 - concepts: both textures and skinning
 - coders: both tech and gameplay
