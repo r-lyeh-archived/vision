@@ -1,7 +1,5 @@
 # vision
-own vision of my ideal company, if i just had the money.
-
-a few assorted premises and thoughts while coding for other (big) companies. 
+a few assorted premises and thoughts while coding for other (big) companies. it is my own vision of an ideal company, if i just had the money.
 
 ## player dogmas
 - candy the eye (aesthetics)
