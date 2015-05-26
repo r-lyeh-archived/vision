@@ -99,21 +99,21 @@ see https://github.com/r-lyeh/gamebook
 1. hint: UI is the last milestone
 
 ## Production: offline games == dual milestones
-- `art   |===|===|===|`
+- `art ..|===|===|===|`
 - `video |===|===|===|`
-- `tech *            |===|===|===|===|===|`
-- `gameplay *        |===|===|===|===|===|`
-- `ui                                |===|`
+- `tech * ...........|===|===|===|===|===|`
+- `gameplay * .......|===|===|===|===|===|`
+- `ui................................|===|`
 - `*: milestones that always match dates`
  
 ## Production: online games == quad milestones
-- `art      |===|===|===|`
-- `video    |===|===|===|`
-- `tech-cli *           |===|===|===|===|===|`
-- `tech-srv *           |===|===|===|===|===|`
-- `gameplay-cli *       |===|===|===|===|===|`
-- `gameplay-srv *       |===|===|===|===|===|`
-- `ui                                   |===|`
+- `art .....|===|===|===|`
+- `video ...|===|===|===|`
+- `tech-cli * ..........|===|===|===|===|===|`
+- `tech-srv * ..........|===|===|===|===|===|`
+- `gameplay-cli * ......|===|===|===|===|===|`
+- `gameplay-srv * ......|===|===|===|===|===|`
+- `ui...................................|===|`
 - `*: milestones that always match dates`
 
 ## Production: monopoly dev
