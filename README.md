@@ -102,7 +102,8 @@ see https://github.com/r-lyeh/gamebook
 1. clone a virtual box disk with the OS in it. keep it as os.vdi
 1. copy os.vdi tools.vdi, install all primary apps (SDKs, toolchains, ...), save tools.vdi.
 1. copy tools.vdi dev.vdi, install all secondary apps (text/image editors, ...), save dev.vdi.
-1. copy dev.vdi to a shared network folder;
+1. copy dev.vdi to a shared network folder
+
 - when major upgrading, restart from 2)
 - when minor upgrading, restart from 3)
 - when deploying a new computer, copy dev.vdi disk from the network and profit.
