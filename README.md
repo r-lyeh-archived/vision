@@ -82,15 +82,15 @@ everybody in the project have this is mind when creating { artwork, code, mechan
 - `gameplay-srv |===|===|===|===|===|==|`
 
 # tech
-- deploy games purely as content player 
-- whole games as data driven
-- add features to the player, rather than to the game
+- deploy games purely as player+content.
+- whole games as data driven.
+- add features to the player, rather than to the game.
 
 # monopoly dev
 - hq is assigned a quantity of fake money for the whole project 
 - every new feature gets evaluated in time: time x human resources = money
-- if est money > remaining money then feature is not done (and HQ guy gets fired :o)
-- else money is substracted from total amount and time is added to project estimation
+- if estimated money > remaining money then feature is not done (and HQ guy gets fired :o)
+- else money is substracted from total amount and time is added to project schedules.
 
 # studio dev tools
 - clone a virtual box disk with the OS in it. keep it as os.vdi
