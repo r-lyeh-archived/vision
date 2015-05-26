@@ -6,8 +6,9 @@ a few assorted premises and thoughts
 - touch the heart
 - master the brain
 
-# game dogma
-- sorted by importance: content > mechanics > code
+# game dogmas
+- sorted by importance: sizeof( content ) > sizeof( mechanics ) > sizeof( code )
+- ie, durability/diversity > uniqueness > dev effort.
 
 # dev dogmas
 - democracy { art, code, design }
