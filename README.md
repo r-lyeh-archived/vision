@@ -1,9 +1,5 @@
 # Vision
-- a few assorted premises and thoughts while coding for other (big) companies.
-- this is just my own vision of an ideal company, if i just had the money.
-
-
-# Index
+1. About
 1. Dogmas
 1. Studio
   1. inverse development flow
@@ -30,6 +26,10 @@
 1. Marketing
   1. Customer review flow
   1. Presskit >> landing page
+
+## About
+- a few assorted premises and thoughts while coding for other (big) companies.
+- this is just my own vision of an ideal company, if i just had the money.
 
 ## Dogmas
 - studio dogmas
