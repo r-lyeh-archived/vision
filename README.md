@@ -7,8 +7,9 @@
   1. inverse development flow
   1. dual organization roles
   1. constraints when authoring content
-  1. physical layout
-  1. human resources pluses (when hiring)
+1. Human resources
+  1. physical studio layout
+  1. pluses when hiring
 1. Design
   1. Five rules for mobile games (that you might have disregarded)
   1. Game pitch
@@ -62,7 +63,7 @@
 - pick a vertex for a given project.
 - everybody in the project have this is mind when creating { artwork, code, mechanics/levels, content }
 
-## Studio: physical layout
+## Human resources: physical studio layout
 - flat
 - synergy
 - freedom
@@ -70,7 +71,7 @@
 - mixed weekly reviews
 - mixed game jams
 
-## Studio: human resources pluses (when hiring)
+## Human resources: pluses when hiring
 - master of two: artsy coder, technical artist, game+level designer
 
 ## Design: Five rules for mobile games (that you might have disregarded)
