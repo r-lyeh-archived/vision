@@ -94,7 +94,7 @@ everybody in the project have this is mind when creating { artwork, code, mechan
 
 # studio dev tools
 - clone a virtual box disk with the OS in it. keep it as os.vdi
-- copy os.vdi tools.vdi;d install all secondary apps (text/image editors, ...)
+- copy os.vdi tools.vdi; install all secondary apps (text/image editors, ...)
 - copy tools.vdi dev.vdi; install all primary apps (SDKs, toolchains, ...)
 - when minor upgrading, restart from tools.vdi and reinstall primary apps; save.
 - when major upgrading, restart from os.vdi and reinstall primary and secondary apps; save.
