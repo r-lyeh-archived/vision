@@ -99,22 +99,22 @@ see https://github.com/r-lyeh/gamebook
 1. hint: UI is the last milestone
 
 ## Production: offline games == dual milestones
-- `art ..|===|===|===|`
-- `video |===|===|===|`
+- `art ..|=|=|==|==|=|`
+- `video ...|===|==|=|`
 - `tech * ...........|===|===|===|===|===|`
 - `gameplay * .......|===|===|===|===|===|`
-- `ui................................|===|`
-- `*: milestones that always match dates`
+- `ui....................................|===|`
+- `*`: milestones that always match dates
  
 ## Production: online games == quad milestones
-- `art .....|===|===|===|`
-- `video ...|===|===|===|`
+- `art .....|=|=|==|==|=|`
+- `video ......|===|==|=|`
 - `tech-cli * ..........|===|===|===|===|===|`
 - `tech-srv * ..........|===|===|===|===|===|`
 - `gameplay-cli * ......|===|===|===|===|===|`
 - `gameplay-srv * ......|===|===|===|===|===|`
-- `ui...................................|===|`
-- `*: milestones that always match dates`
+- `ui.......................................|===|`
+- `*`: milestones that always match dates
 
 ## Production: monopoly dev
 - HQ is assigned a quantity of fake money (budget) for the whole project 
