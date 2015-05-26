@@ -2,6 +2,13 @@
 - a few assorted premises and thoughts while coding for other (big) companies. 
 - my own vision of an ideal company, if i just had the money.
 
+
+1. Dogmas
+  1. Studio
+  1. Product
+  1. Player
+
+
 ## Dogmas
 - studio dogmas
   - democracy { art, code, design }
@@ -103,6 +110,7 @@ see https://github.com/r-lyeh/gamebook
 1. copy os.vdi tools.vdi, install all primary apps (SDKs, toolchains, ...), save tools.vdi.
 1. copy tools.vdi dev.vdi, install all secondary apps (text/image editors, ...), save dev.vdi.
 1. copy dev.vdi to a shared network folder
+
 
 - when major upgrading, restart from 2)
 - when minor upgrading, restart from 3)
