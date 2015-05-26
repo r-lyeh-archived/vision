@@ -95,18 +95,26 @@ see https://github.com/r-lyeh/gamebook
 ## Preproduction
 1. do in-game-assets while( !art director && !hq approved ) ; preproduction
 1. do gameplay-video-in-max while( !designers && !tech director && !hq approved ) ; preproduction
-1. do convert-video-to-app while( !coders && !qa approved ) ; this is split in milestones
-1. hint: UI is left as the last milestone
+1. do convert-video-to-app while( !coders && !qa approved ) ; this is split into milestones (see below)
+1. hint: UI is the last milestone
 
 ## Production: offline games == dual milestones
-- `tech     |===|===|===|===|`
-- `gameplay |===|===|===|===|===|==|`
-
+- `art   |===|===|===|`
+- `video |===|===|===|`
+- `tech *            |===|===|===|===|===|`
+- `gameplay *        |===|===|===|===|===|`
+- `ui                                |===|`
+- `*: milestones that always match dates`
+ 
 ## Production: online games == quad milestones
-- `tech-cli     |===|===|===|===|`
-- `tech-srv     |===|===|===|===|`
-- `gameplay-cli |===|===|===|===|===|==|`
-- `gameplay-srv |===|===|===|===|===|==|`
+- `art      |===|===|===|`
+- `video    |===|===|===|`
+- `tech-cli *           |===|===|===|===|===|`
+- `tech-srv *           |===|===|===|===|===|`
+- `gameplay-cli *       |===|===|===|===|===|`
+- `gameplay-srv *       |===|===|===|===|===|`
+- `ui                                   |===|`
+- `*: milestones that always match dates`
 
 ## Production: monopoly dev
 - HQ is assigned a quantity of fake money (budget) for the whole project 
