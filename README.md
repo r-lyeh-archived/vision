@@ -1,8 +1,8 @@
-# vision
+# Vision
 - a few assorted premises and thoughts while coding for other (big) companies. 
 - my own vision of an ideal company, if i just had the money.
 
-## dogmas
+## Dogmas
 - player dogmas
   - candy the eye (aesthetics)
   - touch the heart (provide valuable content)
@@ -12,15 +12,15 @@
   - ie, durability/diversity > uniqueness > dev effort.
 - studio dogmas
   - democracy { art, code, design }
-  - brainstorming: everybody in shared triangle edges 
-  - voting: rule 2-of-3 
+  - brainstorming: everybody can propose.
+  - voting: requires 2-of-3 votes from different departments to proceed.
   - own your production
 
 ## Studio: inverse development flow
 - classic: staff requests features, workers do. loop forever. infinite development cycle. nonsense everywhere.
 - inverse: workers request features, staff approves or maybe not, devs do only if approved.
 
-### Studio: dual organization
+### Studio: dual organization roles
 - designers: both mechanics and levels
 - concepts: both textures and skinning
 - coders: both tech and gameplay
@@ -31,15 +31,23 @@
 - managers: nope
 - HQ / staff / vip: nope
 
-## Studio: project constrains
-triangle of [detail/space,quality/performance,time/money].
-pick a vertex for a given project.
-everybody in the project have this is mind when creating { artwork, code, mechanics/levels, content }
+## Studio: constraints when authoring content
+- triangle of [detail/space,quality/performance,time/money].
+- pick a vertex for a given project.
+- everybody in the project have this is mind when creating { artwork, code, mechanics/levels, content }
 
-## Human resources: plus (when hiring)
+## Studio: physical layout
+- flat
+- synergy
+- freedom
+- mixed environments
+- mixed weekly reviews
+- mixed game jams
+
+## Studio: human resources pluses (when hiring)
 - master of two: artsy coder, technical artist, game+level designer
 
-## five rules for mobile games
+## Design: Five rules for mobile games (that you might have disregarded)
 1. vibrant colors, nice graphics, lovely stupid chars (worms, minions, kerbals, rabids)
 1. short game sessions [30s..2m]
 1. long story/campaign [days...months]
@@ -61,14 +69,6 @@ see https://github.com/r-lyeh/gamebook
 
 ## Visitor: presskit > landing page
 - half page what/where/when/how much/who/why + media (img/vid)
-
-## Studio: physical layout
-- flat
-- synergy
-- freedom
-- mixed environments
-- mixed weekly reviews
-- mixed game jams
 
 ## Coders: tech
 - deploy games purely as player+content.
