@@ -47,12 +47,12 @@ everybody in the project have this is mind when creating { artwork, code, mechan
 1. do convert-video-to-app while( !coders && !qa approved ) ; this is split in milestones
 1. hint: UI is left as the last milestone
 
-# mobile flow 4/4 rule: 4 steps/4 rewards
+# five rules for mobile games
 1. vibrant colors, nice graphics, lovely stupid chars (worms, minions, kerbals, rabids)
 1. short game sessions [30s..2m]
 1. long story/campaign [days...months]
 1. tapping, one finger to rule them all
-- rewarding: 0 stars (failed), 1 star (ok), 2 stars (great!), 3 stars (awesome!!)
+1. rewarding: 0 stars (failed), 1 star (ok), 2 stars (great!), 3 stars (awesome!!)
 
 # customer review flow
 1. image: vivid colors, nice artwork
@@ -61,7 +61,11 @@ everybody in the project have this is mind when creating { artwork, code, mechan
 1. store: price, availability, requeriments
 1. (additionally pre: ads<->marketing<->networking: how did you know about the game?)
 
-# gamebook
+# game pitch
+see https://github.com/r-lyeh/pitch
+
+# game book
+see https://github.com/r-lyeh/gamebook
 
 # presskit > landing page
 - half page what/where/when/how much/who/why + media (img/vid)
