@@ -1,20 +1,20 @@
 # vision
-a few assorted premises and thoughts while coding for other (big) companies. it is my own vision of an ideal company, if i just had the money.
+- a few assorted premises and thoughts while coding for other (big) companies. 
+- my own vision of an ideal company, if i just had the money.
 
-## player dogmas
-- candy the eye (aesthetics)
-- touch the heart (provide valuable content)
-- master the brain (mechanics)
-
-## product dogmas
-- sorted by importance: sizeof( content ) > sizeof( mechanics ) > sizeof( code )
-- ie, durability/diversity > uniqueness > dev effort.
-
-## studio dogmas
-- democracy { art, code, design }
-- brainstorming: everybody in shared triangle edges 
-- voting: rule 2-of-3 
-- own your production
+## dogmas
+- player dogmas
+  - candy the eye (aesthetics)
+  - touch the heart (provide valuable content)
+  - master the brain (mechanics)
+- product dogmas
+  - sorted by importance: sizeof( content ) > sizeof( mechanics ) > sizeof( code )
+  - ie, durability/diversity > uniqueness > dev effort.
+- studio dogmas
+  - democracy { art, code, design }
+  - brainstorming: everybody in shared triangle edges 
+  - voting: rule 2-of-3 
+  - own your production
 
 ## Studio: inverse development flow
 - classic: staff requests features, workers do. loop forever. infinite development cycle. nonsense everywhere.
