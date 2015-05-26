@@ -1,5 +1,6 @@
 # vision
-a few assorted premises and thoughts
+own vision of my ideal company, if i just had the money.
+a few assorted premises and thoughts while coding for other (big) companies. 
 
 # player dogmas
 - candy the eye
