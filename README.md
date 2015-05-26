@@ -3,16 +3,30 @@
 - this is just my own vision of an ideal company, if i just had the money.
 
 1. Dogmas
-  1. Studio
-  1. Product
-  1. Player
 1. Studio
+  1. inverse development flow
+  1. dual organization roles
+  1. constraints when authoring content
+  1. physical layout
+  1. human resources pluses (when hiring)
 1. Design
+  1. Five rules for mobile games (that you might have disregarded)
+  1. Game pitch
+  1. Game book
 1. Coding
-1. Pre-production
+  1. main tech mission
+1. Preproduction
 1. Production
-1. IT
+  1. Offline games == dual milestones
+  1. Online games == quad milestones
+  1. Monopoly dev
+1. ITs
+  1. Studio dev tools
+  1. Tools
+  1. Infrastructure
 1. Marketing
+  1. Customer review flow
+  1. Presskit >> landing page
 
 ## Dogmas
 - studio dogmas
@@ -72,7 +86,7 @@ see https://github.com/r-lyeh/pitch
 ## Design: game book
 see https://github.com/r-lyeh/gamebook
 
-## Coders: main tech mission
+## Coding: main tech mission
 - deploy games purely as player+content.
 - whole games as data driven.
 - add features to the player, rather than to the game.
@@ -118,6 +132,16 @@ see https://github.com/r-lyeh/gamebook
 - sublime text 2
 - tortoise git
 - tortoise svn
+
+## ITs: infrastructure
+- shared folders per artists
+- shared folders per coders
+- shared folders per project
+- shared folders per platform
+- shared folders per build machines
+- svn for artwork
+- git for code
+- ldap for passwords
 
 ## Marketing: customer review flow
 1. image: vivid colors, nice artwork
