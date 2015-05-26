@@ -1,13 +1,18 @@
 # Vision
 - a few assorted premises and thoughts while coding for other (big) companies. 
-- my own vision of an ideal company, if i just had the money.
-
+- this is just my own vision of an ideal company, if i just had the money.
 
 1. Dogmas
   1. Studio
   1. Product
   1. Player
-
+1. Studio
+1. Design
+1. Coding
+1. Pre-production
+1. Production
+1. IT
+1. Marketing
 
 ## Dogmas
 - studio dogmas
@@ -67,17 +72,7 @@ see https://github.com/r-lyeh/pitch
 ## Design: game book
 see https://github.com/r-lyeh/gamebook
 
-## Visitor: customer review flow
-1. image: vivid colors, nice artwork
-1. video: movement, feel, sound, additional details (history, easters, ..)
-1. reviews: positive and negative details
-1. store: price, availability, requeriments
-1. (additionally pre: ads<->marketing<->networking: how did you know about the game?)
-
-## Visitor: presskit > landing page
-- half page what/where/when/how much/who/why + media (img/vid)
-
-## Coders: tech
+## Coders: main tech mission
 - deploy games purely as player+content.
 - whole games as data driven.
 - add features to the player, rather than to the game.
@@ -107,10 +102,9 @@ see https://github.com/r-lyeh/gamebook
 
 ## ITs: studio dev tools
 1. clone a virtual box disk with the OS in it. keep it as os.vdi
-1. copy os.vdi tools.vdi, install all primary apps (SDKs, toolchains, ...), save tools.vdi.
-1. copy tools.vdi dev.vdi, install all secondary apps (text/image editors, ...), save dev.vdi.
+1. copy os.vdi tools.vdi, install all primary apps (SDKs, toolchains, ...), save tools.vdi
+1. copy tools.vdi dev.vdi, install all secondary apps (text/image editors, ...), save dev.vdi
 1. copy dev.vdi to a shared network folder
-
 
 - when major upgrading, restart from 2)
 - when minor upgrading, restart from 3)
@@ -124,3 +118,13 @@ see https://github.com/r-lyeh/gamebook
 - sublime text 2
 - tortoise git
 - tortoise svn
+
+## Marketing: customer review flow
+1. image: vivid colors, nice artwork
+1. video: movement, feel, sound, additional details (history, easters, ..)
+1. reviews: positive and negative details
+1. store: price, availability, requeriments
+1. (additionally pre: ads<->marketing<->networking: how did you know about the game?)
+
+## Marketing: presskit >> landing page
+- half page of { what/where/when/how much/who/why } + media { img, vid } + contact + social network
