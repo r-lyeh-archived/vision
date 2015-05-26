@@ -1,7 +1,9 @@
 # Vision
-- a few assorted premises and thoughts while coding for other (big) companies. 
+- a few assorted premises and thoughts while coding for other (big) companies.
 - this is just my own vision of an ideal company, if i just had the money.
 
+
+# Index
 1. Dogmas
 1. Studio
   1. inverse development flow
