@@ -28,7 +28,7 @@
   1. Presskit >> landing page
 
 ## About
-- a few assorted premises and thoughts while coding for other (big) companies.
+- a few assorted premises and written thoughts while coding for other (big) companies.
 - this is just my own vision of an ideal company, if i just had the money.
 
 ## Dogmas
