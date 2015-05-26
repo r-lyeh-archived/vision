@@ -94,10 +94,11 @@ everybody in the project have this is mind when creating { artwork, code, mechan
 
 # studio dev tools
 - clone a virtual box disk with the OS in it. keep it as os.vdi
-- copy os.vdi dev0.vdi; and append your secondary dev apps into it (like text/image editors, and other stuff).
-- copy tools.vdi dev1.vdi; and append your primary dev apps into it (like SDKs, toolchains).
-- when deploying a new computer, grab the dev.vdi disk from the network
-- when updating tools, restart from os.vdi
+- copy os.vdi tools.vdi;d install all secondary apps (text/image editors, ...)
+- copy tools.vdi dev.vdi; install all primary apps (SDKs, toolchains, ...)
+- when minor upgrading, restart from tools.vdi and reinstall primary apps; save.
+- when major upgrading, restart from os.vdi and reinstall primary and secondary apps; save.
+- when deploying a new computer, copy dev.vdi disk from the network
 
 # tools
 - easy boot cd
