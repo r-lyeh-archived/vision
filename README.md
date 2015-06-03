@@ -106,7 +106,7 @@ see https://github.com/r-lyeh/gamebook
 - `tech * ...........|===|===|===|===|===|`
 - `gameplay * .......|===|===|===|===|===|`
 - `ui+loc-kit............................|===|`
--- `*`: production lanes which converge in same milestones always
+- `*`: production lanes which converge in same milestones always
  
 ## Production: online games == quad milestones
 - `art .....|=|=|==|==|=|`
@@ -116,7 +116,7 @@ see https://github.com/r-lyeh/gamebook
 - `gameplay-cli * ......|===|===|===|===|===|`
 - `gameplay-srv * ......|===|===|===|===|===|`
 - `ui+loc-kit...............................|===|`
--- `*`: production lanes which converge in same milestones always
+- `*`: production lanes which converge in same milestones always
 
 ## Production: monopoly dev
 - HQ is assigned a quantity of fake money (budget) for the whole project 
