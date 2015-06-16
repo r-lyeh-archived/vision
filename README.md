@@ -56,6 +56,7 @@
 - animators: both model and animation
 - musicians: both music and sounds
 - leads: both project and human resources
+- UX designers: testers!
 - producers: nope
 - managers: nope
 - HQ / staff / vip: nope
@@ -98,15 +99,21 @@ see https://github.com/r-lyeh/gamebook
 1. do in-game-assets while( !art director && !hq approved ) ; preproduction
 1. do gameplay-video-in-max while( !designers && !tech director && !hq approved ) ; preproduction
 1. do convert-video-to-app while( !coders && !qa approved ) ; this is split into milestones (see below)
-1. hint: both UI and loc-kit are introduced in the last milestone
+
+## Postproduction
+1. UX is done by testers.
+1. UI and loc-kit are both introduced into next milestone.
+1. QA milestone is finally done.
 
 ## Production: offline games == dual milestones
 - `art ..|=|=|==|==|=|`
 - `video ...|===|==|=|`
 - `tech * ...........|===|===|===|===|===|`
 - `gameplay * .......|===|===|===|===|===|`
-- `ui+loc-kit............................|===|`
-- `*`: production lanes which converge in same milestones always
+- `ux....................................|===|`
+- `ui+loc-kit................................|===|`
+- `QA............................................|===|`
+- `*`: projects whose milestones always converge
  
 ## Production: online games == quad milestones
 - `art .....|=|=|==|==|=|`
@@ -115,8 +122,10 @@ see https://github.com/r-lyeh/gamebook
 - `tech-srv * ..........|===|===|===|===|===|`
 - `gameplay-cli * ......|===|===|===|===|===|`
 - `gameplay-srv * ......|===|===|===|===|===|`
-- `ui+loc-kit...............................|===|`
-- `*`: production lanes which converge in same milestones always
+- `ux.......................................|===|`
+- `ui+loc-kit...................................|===|`
+- `QA...............................................|===|`
+- `*`: projects whose milestones always converge
 
 ## Production: monopoly dev
 - HQ is assigned a quantity of fake money (budget) for the whole project 
