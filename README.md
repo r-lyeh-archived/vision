@@ -172,3 +172,6 @@ see https://github.com/r-lyeh/gamebook
 
 ## Marketing: presskit >> landing page
 - half page of { what/where/when/how much/who/why } + media { img, vid } + contact + social network
+
+## Further reading
+- http://research.microsoft.com/pubs/262301/washburn-icse-2016.pdf
