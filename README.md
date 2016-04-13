@@ -14,6 +14,7 @@
   1. Game book
 1. Coding
   1. main tech mission
+1. Prototypes
 1. Preproduction
 1. Production
   1. Offline games == dual milestones
@@ -94,6 +95,9 @@ see https://github.com/r-lyeh/gamebook
 - deploy games purely as player+content.
 - whole games as data driven.
 - add features to the player, rather than to the game.
+
+## Prototypes
+1. Rule 4:44 for a 48h game jam. Core in 4h + polish in 44h. Never add mechanics in polish stage (@Rami Ismail)
 
 ## Preproduction
 1. do in-game-assets while( !art director && !hq approved ) ; preproduction
