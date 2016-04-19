@@ -67,6 +67,11 @@
 - pick a vertex for a given project.
 - everybody in the project have this is mind when creating { artwork, code, mechanics/levels, content }
 
+## Studio: dev tools
+- Production planning? Gantts? Create a .xlsx file @ google docs instead.
+- Show & tell or weekly progress meetings? Mail screenshots or videos to game.weekly@studio.com instead.
+- Who to mail because of something related to stage 3? Mail to game.stage3@studio.com instead.
+
 ## Human resources: physical studio layout
 - flat
 - synergy
