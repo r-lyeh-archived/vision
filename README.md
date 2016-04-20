@@ -69,8 +69,16 @@
 
 ## Studio: dev tools
 - Production planning? Gantts? Create a .xlsx file @ google docs instead.
-- Show & tell or weekly progress meetings? Mail screenshots or videos to game.weekly@studio.com instead.
-- Who to mail because of something related to stage 3? Mail to game.stage3@studio.com instead.
+- Who to mail because of something related to stage 3? Mail to game.stage3@studio.com subscribers instead.
+
+## Studio: daily habits (60sec rule)
+- Group: Leads talks to each dev about his/her tasks briefly: 60sec / dev. Group finishes quickly.
+- Sole: Each dev talks to his lead about recent problems. Individual problems may take longer to discuss. No bottlenecks.
+
+## Studio: weekly habits (postmortem/show-and-tell rule)
+- Weekly postmortems+show-and-tell mails.
+- Mail one-liners: "Wrong: %s. Right: %s" to game.weekly@studio.com.
+- Additionally, mail screenshots or progress videos too.
 
 ## Human resources: physical studio layout
 - flat
